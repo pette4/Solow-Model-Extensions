@@ -5,6 +5,7 @@
 ---
 
 ## Overview
+More info on the solow_model.pdf document.
 
 This project empirically tests the **Solow growth model** across 168 countries, investigating how **GDP per capita** relates to the **savings rate**, **population growth**, and **trade openness**.  
 The goal is to assess whether long-run income differences can be explained by structural economic fundamentals, consistent with the predictions of the Solow framework.
